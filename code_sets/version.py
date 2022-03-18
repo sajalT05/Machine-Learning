@@ -1,6 +1,5 @@
-'''
-// check version of libraries
-/*
+# print versions
+
 import sys
 print("Python:", format(sys.version))
 import scipy
@@ -13,5 +12,3 @@ import pandas
 print("pandas:", format(pandas.__version__))
 import sklearn
 print("sklearn:",format(sklearn.__version__))
-*/
-'''
