@@ -14,4 +14,5 @@
 1. [Sci-kit Learn](https://scikit-learn.org/stable/user_guide.html)
 
 ### Education
-1. [Edureka](https://www.edureka.co/blog/machine-learning-tutorial) --> [YouTube Video](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
+1. Machine Learning Full Course | [Edureka](https://www.edureka.co/blog/machine-learning-tutorial) --> [YouTube Video](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
+2.  Google Cloud Big Data and Machine Learning Fundamentals | [Google](https://www.cloudskillsboost.google/course_templates/3)
