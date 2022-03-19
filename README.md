@@ -12,6 +12,8 @@
 
 ### Libraries
 1. [Sci-kit Learn](https://scikit-learn.org/stable/user_guide.html)
+2. [Numpy](https://numpy.org/)
+3. [Pandas](https://pandas.pydata.org/)
 
 ### Education
 1. Machine Learning Full Course | [Edureka](https://www.edureka.co/blog/machine-learning-tutorial) --> [YouTube Video](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
