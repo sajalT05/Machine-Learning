@@ -7,7 +7,7 @@
 
 ### Tools
 1. [Anaconda](https://www.anaconda.com/)
-2. [Jupyter Notebook]
+2. [Jupyter Notebook](https://jupyter.org/)
 3. [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 ### Libraries
