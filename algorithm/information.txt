@@ -1,0 +1,3 @@
+# Definitions
+1. Dataframe: For structured and semistructured data.
+2. Dataset: for structured and unstructred data.
