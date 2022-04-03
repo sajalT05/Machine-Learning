@@ -1,3 +1,6 @@
+Important:
+	1. Open files in jupyter notebook.
+
 # Definitions
 1. Dataframe: For structured and semistructured data.
 2. Dataset: for structured and unstructred data.
